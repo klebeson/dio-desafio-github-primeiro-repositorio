@@ -1,0 +1,29 @@
+			Semântica
+<section> - Representa uma seção generica de conteudos
+<header> - Cabeçalho de uma página ou parte de uma página
+<article> - Um contúdo relevante dentro de uma página
+<aside> - Representa um contudo relacionado ao conteúdo principal de uma página ex: Links relacionados
+<footer> - Rodapé de uma página ou de parte da página
+<h1>-<h6> - Representam a importância de um título em uma página
+
+			Textos e Links
+<p><p> - Suporta textos mais densos
+<a>Link<a>
+<a href = "https://www.google.com.br/">Google</a> - Hiperlink para onde a âncora esta apontando
+<a target= "_blank">Link</a> - Diz como o link será aberto, neste caso em uma nova aba.
+
+			Imagens
+<img>
+<img src= "img/avatar.jpg"> - Guarda o caminho da imagem
+<img alt="Foto Klebeson Mirada"> - Mostra uma descrição da foto caso ela não seja carregada
+
+			Listas
+<ul>
+item 1 - Representa um elemento onde a ordem dos itens não é importante
+item 2
+
+<ol>
+1. Item 1 - Representa um elemento onde a ordem dos item é importante, porém vem com números, letras ou algarismos romanos
+2. Item 2
+
+<li> - Representa um item da lista
