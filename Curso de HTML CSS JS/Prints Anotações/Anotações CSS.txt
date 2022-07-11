@@ -13,3 +13,8 @@
 	padding: 10px	
 }
 
+		Box Model
+margin - São espaçamentos entre os elementos
+border - Circundam o padding e os conteudos e se é possível alterar sua aparência
+padding - É o espaçameto entre a borda e o conteúdo
+content - É o conteudo que seu bloco representa

@@ -1,0 +1,5 @@
+Flexbox é um modelo de layout inidimensional que ofere distribuição de espaço entre os itens em uma interface e recursos de alinhamentos.
+
+Flex Container - é tag que transforma todos os itens filhos em flex itens.
+
+Display Flex - 
